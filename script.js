@@ -1,4 +1,8 @@
+console.log("HELLO!");
+
+
 var main = function (input) {
-  var myOutputValue = 'hello world';
+  console.log("GOODBYE!");
+  var myOutputValue = input * 5;
   return myOutputValue;
 };
