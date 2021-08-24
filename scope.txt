@@ -1,0 +1,23 @@
+1. Recap
+  - Operations / Operands ---> Functions ---> Logic
+  
+  - Scissors Paper Stone
+
+
+2. 6.1 Intro to Logic
+  - what is a code block?
+  - commenting
+  - Math library
+
+3. 6.2/3 Pseudo Coding, Boolean OR // AND , NOT
+  - understanding the problem in plain english
+  - helps to structure your code
+  - OR / AND / NOT
+
+4. Code examples
+  - Eunice line 4; // testing
+  - Jia Hao // commenting
+
+5. Walkthrough: Even dice number game
+
+6. Inclass
